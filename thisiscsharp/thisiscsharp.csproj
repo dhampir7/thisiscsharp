@@ -7,4 +7,24 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="02\HelloWorld\Exercise.cs" />
+    <Compile Remove="02\HelloWorld\MainApp.cs" />
+    <Compile Remove="03\FloatingPoint\MainApp.cs" />
+    <Compile Remove="03\IntegerLiterals\MainApp.cs" />
+    <Compile Remove="03\IntegralTypes\MainApp.cs" />
+    <Compile Remove="03\Overflow\MainApp.cs" />
+    <Compile Remove="03\SignedUnsigned\MainApp.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="02\HelloWorld\Exercise.cs" />
+    <None Include="02\HelloWorld\MainApp.cs" />
+    <None Include="03\FloatingPoint\MainApp.cs" />
+    <None Include="03\IntegerLiterals\MainApp.cs" />
+    <None Include="03\IntegralTypes\MainApp.cs" />
+    <None Include="03\Overflow\MainApp.cs" />
+    <None Include="03\SignedUnsigned\MainApp.cs" />
+  </ItemGroup>
+
 </Project>
