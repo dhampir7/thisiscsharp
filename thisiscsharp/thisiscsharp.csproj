@@ -3,28 +3,79 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
+    <ImplicitUsings>disable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
     <Compile Remove="02\HelloWorld\Exercise.cs" />
     <Compile Remove="02\HelloWorld\MainApp.cs" />
+    <Compile Remove="03\Bool\MainApp.cs" />
+    <Compile Remove="03\BoxingUnboxing\MainApp.cs" />
+    <Compile Remove="03\Char\MainApp.cs" />
+    <Compile Remove="03\Constant\MainApp.cs" />
+    <Compile Remove="03\CTS\MainApp.cs" />
+    <Compile Remove="03\Decimal\MainApp.cs" />
+    <Compile Remove="03\Enum2\MainApp.cs" />
+    <Compile Remove="03\Enum3\MainApp.cs" />
+    <Compile Remove="03\Enum\MainApp.cs" />
+    <Compile Remove="03\FloatConversion\MainApp.cs" />
     <Compile Remove="03\FloatingPoint\MainApp.cs" />
+    <Compile Remove="03\FloatToIntegral\MainApp.cs" />
     <Compile Remove="03\IntegerLiterals\MainApp.cs" />
+    <Compile Remove="03\IntegralConversion\MainApp.cs" />
     <Compile Remove="03\IntegralTypes\MainApp.cs" />
+    <Compile Remove="03\Nullable\MainApp.cs" />
+    <Compile Remove="03\Object\MainApp.cs" />
     <Compile Remove="03\Overflow\MainApp.cs" />
+    <Compile Remove="03\SignedUnsignedConversion\MainApp.cs" />
     <Compile Remove="03\SignedUnsigned\MainApp.cs" />
+    <Compile Remove="03\StringFormatBasic\MainApp.cs" />
+    <Compile Remove="03\StringFormatDatetime\MainApp.cs" />
+    <Compile Remove="03\StringFormatNumber\MainApp.cs" />
+    <Compile Remove="03\StringModify\MainApp.cs" />
+    <Compile Remove="03\StringNumberConversion\MainApp.cs" />
+    <Compile Remove="03\StringSearch\MainApp.cs" />
+    <Compile Remove="03\StringSlice\MainApp.cs" />
+    <Compile Remove="03\String\MainApp.cs" />
+    <Compile Remove="03\UsingVar\MainApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="02\HelloWorld\Exercise.cs" />
     <None Include="02\HelloWorld\MainApp.cs" />
+    <None Include="03\Bool\MainApp.cs" />
+    <None Include="03\BoxingUnboxing\MainApp.cs" />
+    <None Include="03\Char\MainApp.cs" />
+    <None Include="03\Constant\MainApp.cs" />
+    <None Include="03\CTS\MainApp.cs" />
+    <None Include="03\Decimal\MainApp.cs" />
+    <None Include="03\Enum2\MainApp.cs" />
+    <None Include="03\Enum3\MainApp.cs" />
+    <None Include="03\Enum\MainApp.cs" />
     <None Include="03\FloatingPoint\MainApp.cs" />
+    <None Include="03\FloatToIntegral\MainApp.cs" />
     <None Include="03\IntegerLiterals\MainApp.cs" />
+    <None Include="03\IntegralConversion\MainApp.cs" />
     <None Include="03\IntegralTypes\MainApp.cs" />
+    <None Include="03\Nullable\MainApp.cs" />
+    <None Include="03\Object\MainApp.cs" />
     <None Include="03\Overflow\MainApp.cs" />
+    <None Include="03\SignedUnsignedConversion\MainApp.cs" />
     <None Include="03\SignedUnsigned\MainApp.cs" />
+    <None Include="03\StringFormatBasic\MainApp.cs" />
+    <None Include="03\StringFormatDatetime\MainApp.cs" />
+    <None Include="03\StringFormatNumber\MainApp.cs" />
+    <None Include="03\StringModify\MainApp.cs" />
+    <None Include="03\StringNumberConversion\MainApp.cs" />
+    <None Include="03\StringSearch\MainApp.cs" />
+    <None Include="03\StringSlice\MainApp.cs" />
+    <None Include="03\String\MainApp.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="03\FloatConversion\MainApp.cs" />
+    <None Include="03\UsingVar\MainApp.cs" />
   </ItemGroup>
 
 </Project>

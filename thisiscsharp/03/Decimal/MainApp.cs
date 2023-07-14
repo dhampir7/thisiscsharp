@@ -1,10 +1,9 @@
 ﻿using System;
 
-namespace FloatingPoint
+namespace Decimal
 {
     class MainApp
     {
-        // 프로그램 실행이 시작되는 곳
         static void Main(string[] args)
         {
             float   a = 3.1415_9265_3589_7932_3846_2643_3832_79f;

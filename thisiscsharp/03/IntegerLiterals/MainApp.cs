@@ -1,10 +1,9 @@
 ﻿using System;
 
-namespace IntegralTypes
+namespace IntegerLiterals
 {
     class MainApp
     {
-        // 프로그램 실행이 시작되는 곳
         static void Main(string[] args)
         {
             byte a = 240;           // 10진수 리터럴
