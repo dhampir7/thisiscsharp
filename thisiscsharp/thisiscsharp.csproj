@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="02\Exercise\Exercise.cs" />
     <Compile Remove="02\HelloWorld\Exercise.cs" />
     <Compile Remove="02\HelloWorld\MainApp.cs" />
     <Compile Remove="03\Bool\MainApp.cs" />
@@ -19,6 +20,7 @@
     <Compile Remove="03\Enum2\MainApp.cs" />
     <Compile Remove="03\Enum3\MainApp.cs" />
     <Compile Remove="03\Enum\MainApp.cs" />
+    <Compile Remove="03\Exercise\Exercise.cs" />
     <Compile Remove="03\FloatConversion\MainApp.cs" />
     <Compile Remove="03\FloatingPoint\MainApp.cs" />
     <Compile Remove="03\FloatToIntegral\MainApp.cs" />
@@ -33,16 +35,25 @@
     <Compile Remove="03\StringFormatBasic\MainApp.cs" />
     <Compile Remove="03\StringFormatDatetime\MainApp.cs" />
     <Compile Remove="03\StringFormatNumber\MainApp.cs" />
+    <Compile Remove="03\StringInterpolation\MainApp.cs" />
     <Compile Remove="03\StringModify\MainApp.cs" />
     <Compile Remove="03\StringNumberConversion\MainApp.cs" />
     <Compile Remove="03\StringSearch\MainApp.cs" />
     <Compile Remove="03\StringSlice\MainApp.cs" />
     <Compile Remove="03\String\MainApp.cs" />
     <Compile Remove="03\UsingVar\MainApp.cs" />
+    <Compile Remove="04\ArithmaticOperators\MainApp.cs" />
+    <Compile Remove="04\ConditionalOperator\MainApp.cs" />
+    <Compile Remove="04\IncDecOperator\MainApp.cs" />
+    <Compile Remove="04\LogicalOperator\MainApp.cs" />
+    <Compile Remove="04\NullConditionalOperator\MainApp.cs" />
+    <Compile Remove="04\RelationalOperator\MainApp.cs" />
+    <Compile Remove="04\ShiftOperator\MainApp.cs" />
+    <Compile Remove="04\StringConcatenate\MainApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="02\HelloWorld\Exercise.cs" />
+    <None Include="02\Exercise\Exercise.cs" />
     <None Include="02\HelloWorld\MainApp.cs" />
     <None Include="03\Bool\MainApp.cs" />
     <None Include="03\BoxingUnboxing\MainApp.cs" />
@@ -53,6 +64,8 @@
     <None Include="03\Enum2\MainApp.cs" />
     <None Include="03\Enum3\MainApp.cs" />
     <None Include="03\Enum\MainApp.cs" />
+    <None Include="03\Exercise\Exercise.cs" />
+    <None Include="03\FloatConversion\MainApp.cs" />
     <None Include="03\FloatingPoint\MainApp.cs" />
     <None Include="03\FloatToIntegral\MainApp.cs" />
     <None Include="03\IntegerLiterals\MainApp.cs" />
@@ -66,6 +79,7 @@
     <None Include="03\StringFormatBasic\MainApp.cs" />
     <None Include="03\StringFormatDatetime\MainApp.cs" />
     <None Include="03\StringFormatNumber\MainApp.cs" />
+    <None Include="03\StringInterpolation\MainApp.cs" />
     <None Include="03\StringModify\MainApp.cs" />
     <None Include="03\StringNumberConversion\MainApp.cs" />
     <None Include="03\StringSearch\MainApp.cs" />
@@ -74,8 +88,15 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="03\FloatConversion\MainApp.cs" />
     <None Include="03\UsingVar\MainApp.cs" />
+    <None Include="04\ArithmaticOperators\MainApp.cs" />
+    <None Include="04\ConditionalOperator\MainApp.cs" />
+    <None Include="04\IncDecOperator\MainApp.cs" />
+    <None Include="04\LogicalOperator\MainApp.cs" />
+    <None Include="04\NullConditionalOperator\MainApp.cs" />
+    <None Include="04\RelationalOperator\MainApp.cs" />
+    <None Include="04\ShiftOperator\MainApp.cs" />
+    <None Include="04\StringConcatenate\MainApp.cs" />
   </ItemGroup>
 
 </Project>
