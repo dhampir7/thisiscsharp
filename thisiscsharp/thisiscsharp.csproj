@@ -43,13 +43,17 @@
     <Compile Remove="03\String\MainApp.cs" />
     <Compile Remove="03\UsingVar\MainApp.cs" />
     <Compile Remove="04\ArithmaticOperators\MainApp.cs" />
+    <Compile Remove="04\AssignmentOperator\MainApp.cs" />
     <Compile Remove="04\ConditionalOperator\MainApp.cs" />
     <Compile Remove="04\IncDecOperator\MainApp.cs" />
     <Compile Remove="04\LogicalOperator\MainApp.cs" />
+    <Compile Remove="04\NullCoalescing\MainApp.cs" />
     <Compile Remove="04\NullConditionalOperator\MainApp.cs" />
     <Compile Remove="04\RelationalOperator\MainApp.cs" />
     <Compile Remove="04\ShiftOperator\MainApp.cs" />
     <Compile Remove="04\StringConcatenate\MainApp.cs" />
+    <Compile Remove="05\IfElse\MainApp.cs" />
+    <Compile Remove="05\IfIf\MainApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -90,13 +94,17 @@
   <ItemGroup>
     <None Include="03\UsingVar\MainApp.cs" />
     <None Include="04\ArithmaticOperators\MainApp.cs" />
+    <None Include="04\AssignmentOperator\MainApp.cs" />
     <None Include="04\ConditionalOperator\MainApp.cs" />
     <None Include="04\IncDecOperator\MainApp.cs" />
     <None Include="04\LogicalOperator\MainApp.cs" />
+    <None Include="04\NullCoalescing\MainApp.cs" />
     <None Include="04\NullConditionalOperator\MainApp.cs" />
     <None Include="04\RelationalOperator\MainApp.cs" />
     <None Include="04\ShiftOperator\MainApp.cs" />
     <None Include="04\StringConcatenate\MainApp.cs" />
+    <None Include="05\IfElse\MainApp.cs" />
+    <None Include="05\IfIf\MainApp.cs" />
   </ItemGroup>
 
 </Project>
