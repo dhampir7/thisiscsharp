@@ -68,10 +68,12 @@
     <Compile Remove="05\Switch\MainApp.cs" />
     <Compile Remove="05\While\MainApp.cs" />
     <Compile Remove="06\Method\MainApp.cs" />
+    <Compile Remove="06\Overloading\MainApp.cs" />
     <Compile Remove="06\RefReturn\MainApp.cs" />
     <Compile Remove="06\Return\MainApp.cs" />
     <Compile Remove="06\SwapByRef\MainApp.cs" />
     <Compile Remove="06\SwapByValue\MainApp.cs" />
+    <Compile Remove="06\UsingOut\MainApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -137,10 +139,12 @@
     <None Include="05\Switch\MainApp.cs" />
     <None Include="05\While\MainApp.cs" />
     <None Include="06\Method\MainApp.cs" />
+    <None Include="06\Overloading\MainApp.cs" />
     <None Include="06\RefReturn\MainApp.cs" />
     <None Include="06\Return\MainApp.cs" />
     <None Include="06\SwapByRef\MainApp.cs" />
     <None Include="06\SwapByValue\MainApp.cs" />
+    <None Include="06\UsingOut\MainApp.cs" />
   </ItemGroup>
 
 </Project>
