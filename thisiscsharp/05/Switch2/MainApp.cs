@@ -1,39 +1,31 @@
 ﻿using System;
 
-namespace Switch
+namespace Switch2
 {
     class MainApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("요일을 입력하세요.(일,월,화,수,목,금,토) : ");
-            string day = Console.ReadLine();
+            object obj = null;
 
-            switch (day)
+            string s = Console.ReadLine();
+            if (int.TryParse(s, out int out_i))
+                obj = out_i;
+            else if (float.TryParse(s, out float out_f))
+                obj = out_f;
+            else
+                obj = s;
+
+            switch (obj)
             {
-                case "일":
-                    Console.WriteLine("Sunday");
+                case int i:
+                    Console.WriteLine($"{i}는 int 형식입니다.");
                     break;
-                case "월":
-                    Console.WriteLine("Monday");
-                    break;
-                case "화":
-                    Console.WriteLine("Tuesday");
-                    break;
-                case "수":
-                    Console.WriteLine("Wednesday");
-                    break;
-                case "목":
-                    Console.WriteLine("Thursday");
-                    break;
-                case "금":
-                    Console.WriteLine("Friday");
-                    break;
-                case "토":
-                    Console.WriteLine("Saturday");
+                case float f:
+                    Console.WriteLine($"{f}는 float 형식입니다.");
                     break;
                 default:
-                    Console.WriteLine($"{day}는(은) 요일이 아닙니다.");
+                    Console.WriteLine($"{obj}(은)는 모르는 형식입니다.");
                     break;
             }
         }

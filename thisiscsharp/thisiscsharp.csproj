@@ -52,8 +52,26 @@
     <Compile Remove="04\RelationalOperator\MainApp.cs" />
     <Compile Remove="04\ShiftOperator\MainApp.cs" />
     <Compile Remove="04\StringConcatenate\MainApp.cs" />
+    <Compile Remove="05\Break\MainApp.cs" />
+    <Compile Remove="05\Continue\MainApp.cs" />
+    <Compile Remove="05\DoWhile\MainApp.cs" />
+    <Compile Remove="05\ForEach\MainApp.cs" />
+    <Compile Remove="05\ForFor\MainApp.cs" />
+    <Compile Remove="05\For\MainApp.cs" />
+    <Compile Remove="05\Goto\MainApp.cs" />
     <Compile Remove="05\IfElse\MainApp.cs" />
     <Compile Remove="05\IfIf\MainApp.cs" />
+    <Compile Remove="05\InfiniteFor\MainApp.cs" />
+    <Compile Remove="05\InfiniteWhile\MainApp.cs" />
+    <Compile Remove="05\Switch2\MainApp.cs" />
+    <Compile Remove="05\SwitchExp\MainApp.cs" />
+    <Compile Remove="05\Switch\MainApp.cs" />
+    <Compile Remove="05\While\MainApp.cs" />
+    <Compile Remove="06\Method\MainApp.cs" />
+    <Compile Remove="06\RefReturn\MainApp.cs" />
+    <Compile Remove="06\Return\MainApp.cs" />
+    <Compile Remove="06\SwapByRef\MainApp.cs" />
+    <Compile Remove="06\SwapByValue\MainApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -103,8 +121,26 @@
     <None Include="04\RelationalOperator\MainApp.cs" />
     <None Include="04\ShiftOperator\MainApp.cs" />
     <None Include="04\StringConcatenate\MainApp.cs" />
+    <None Include="05\Break\MainApp.cs" />
+    <None Include="05\Continue\MainApp.cs" />
+    <None Include="05\DoWhile\MainApp.cs" />
+    <None Include="05\ForEach\MainApp.cs" />
+    <None Include="05\ForFor\MainApp.cs" />
+    <None Include="05\For\MainApp.cs" />
+    <None Include="05\Goto\MainApp.cs" />
     <None Include="05\IfElse\MainApp.cs" />
     <None Include="05\IfIf\MainApp.cs" />
+    <None Include="05\InfiniteFor\MainApp.cs" />
+    <None Include="05\InfiniteWhile\MainApp.cs" />
+    <None Include="05\Switch2\MainApp.cs" />
+    <None Include="05\SwitchExp\MainApp.cs" />
+    <None Include="05\Switch\MainApp.cs" />
+    <None Include="05\While\MainApp.cs" />
+    <None Include="06\Method\MainApp.cs" />
+    <None Include="06\RefReturn\MainApp.cs" />
+    <None Include="06\Return\MainApp.cs" />
+    <None Include="06\SwapByRef\MainApp.cs" />
+    <None Include="06\SwapByValue\MainApp.cs" />
   </ItemGroup>
 
 </Project>
