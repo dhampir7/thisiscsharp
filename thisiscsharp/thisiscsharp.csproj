@@ -67,13 +67,24 @@
     <Compile Remove="05\SwitchExp\MainApp.cs" />
     <Compile Remove="05\Switch\MainApp.cs" />
     <Compile Remove="05\While\MainApp.cs" />
+    <Compile Remove="06\Ex6_1\MainApp.cs" />
+    <Compile Remove="06\Ex6_2\MainApp.cs" />
+    <Compile Remove="06\Ex6_3\MainApp.cs" />
+    <Compile Remove="06\LocalFunction\MainApp.cs" />
     <Compile Remove="06\Method\MainApp.cs" />
+    <Compile Remove="06\NamedParameter\MainApp.cs" />
+    <Compile Remove="06\OptionalParameter\MainApp.cs" />
     <Compile Remove="06\Overloading\MainApp.cs" />
     <Compile Remove="06\RefReturn\MainApp.cs" />
     <Compile Remove="06\Return\MainApp.cs" />
     <Compile Remove="06\SwapByRef\MainApp.cs" />
     <Compile Remove="06\SwapByValue\MainApp.cs" />
     <Compile Remove="06\UsingOut\MainApp.cs" />
+    <Compile Remove="06\UsingParams\MainApp.cs" />
+    <Compile Remove="07\BasicClass\MainApp.cs" />
+    <Compile Remove="07\Constructor\MainApp.cs" />
+    <Compile Remove="07\Constructor\MainAppf.cs" />
+    <Compile Remove="07\StaticField\MainApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -138,13 +149,23 @@
     <None Include="05\SwitchExp\MainApp.cs" />
     <None Include="05\Switch\MainApp.cs" />
     <None Include="05\While\MainApp.cs" />
+    <None Include="06\Ex6_1\MainApp.cs" />
+    <None Include="06\Ex6_2\MainApp.cs" />
+    <None Include="06\Ex6_3\MainApp.cs" />
+    <None Include="06\LocalFunction\MainApp.cs" />
     <None Include="06\Method\MainApp.cs" />
+    <None Include="06\NamedParameter\MainApp.cs" />
+    <None Include="06\OptionalParameter\MainApp.cs" />
     <None Include="06\Overloading\MainApp.cs" />
     <None Include="06\RefReturn\MainApp.cs" />
     <None Include="06\Return\MainApp.cs" />
     <None Include="06\SwapByRef\MainApp.cs" />
     <None Include="06\SwapByValue\MainApp.cs" />
     <None Include="06\UsingOut\MainApp.cs" />
+    <None Include="06\UsingParams\MainApp.cs" />
+    <None Include="07\BasicClass\MainApp.cs" />
+    <None Include="07\Constructor\MainApp.cs" />
+    <None Include="07\StaticField\MainApp.cs" />
   </ItemGroup>
 
 </Project>
