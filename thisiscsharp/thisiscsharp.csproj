@@ -81,10 +81,16 @@
     <Compile Remove="06\SwapByValue\MainApp.cs" />
     <Compile Remove="06\UsingOut\MainApp.cs" />
     <Compile Remove="06\UsingParams\MainApp.cs" />
+    <Compile Remove="07\AccessModifier\MainApp.cs" />
     <Compile Remove="07\BasicClass\MainApp.cs" />
     <Compile Remove="07\Constructor\MainApp.cs" />
     <Compile Remove="07\Constructor\MainAppf.cs" />
+    <Compile Remove="07\Inheritance\MainApp.cs" />
+    <Compile Remove="07\ThisConstructor\MainApp.cs" />
+    <Compile Remove="07\This\MainApp.cs" />
+    <Compile Remove="07\DeepCopy\MainApp.cs" />
     <Compile Remove="07\StaticField\MainApp.cs" />
+    <Compile Remove="07\TypeCasting\MainApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -165,7 +171,16 @@
     <None Include="06\UsingParams\MainApp.cs" />
     <None Include="07\BasicClass\MainApp.cs" />
     <None Include="07\Constructor\MainApp.cs" />
+    <None Include="07\Inheritance\MainApp.cs" />
+    <None Include="07\ThisConstructor\MainApp.cs" />
+    <None Include="07\This\MainApp.cs" />
+    <None Include="07\DeepCopy\MainApp.cs" />
     <None Include="07\StaticField\MainApp.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="07\AccessModifier\MainApp.cs" />
+    <None Include="07\TypeCasting\MainApp.cs" />
   </ItemGroup>
 
 </Project>
