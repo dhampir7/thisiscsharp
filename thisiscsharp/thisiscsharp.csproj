@@ -85,11 +85,24 @@
     <Compile Remove="07\BasicClass\MainApp.cs" />
     <Compile Remove="07\Constructor\MainApp.cs" />
     <Compile Remove="07\Constructor\MainAppf.cs" />
+    <Compile Remove="07\Ex7_1\MainApp.cs" />
+    <Compile Remove="07\ExtensionMethod\MainApp.cs" />
     <Compile Remove="07\Inheritance\MainApp.cs" />
+    <Compile Remove="07\MethodHiding\MainApp.cs" />
+    <Compile Remove="07\NestedClass\MainApp.cs" />
+    <Compile Remove="07\Overriding\MainApp.cs" />
+    <Compile Remove="07\PartialClass\MainApp.cs" />
+    <Compile Remove="07\PositionalPattern\MainApp.cs" />
+    <Compile Remove="07\ReadonlyFields\MainApp.cs" />
+    <Compile Remove="07\ReadonlyMethod\MainApp.cs" />
+    <Compile Remove="07\ReadonlyStruct\MainApp.cs" />
+    <Compile Remove="07\SealedMethod\MainApp.cs" />
+    <Compile Remove="07\Structure\MainApp.cs" />
     <Compile Remove="07\ThisConstructor\MainApp.cs" />
     <Compile Remove="07\This\MainApp.cs" />
     <Compile Remove="07\DeepCopy\MainApp.cs" />
     <Compile Remove="07\StaticField\MainApp.cs" />
+    <Compile Remove="07\Tuple\MainApp.cs" />
     <Compile Remove="07\TypeCasting\MainApp.cs" />
   </ItemGroup>
 
@@ -171,7 +184,19 @@
     <None Include="06\UsingParams\MainApp.cs" />
     <None Include="07\BasicClass\MainApp.cs" />
     <None Include="07\Constructor\MainApp.cs" />
+    <None Include="07\Ex7_1\MainApp.cs" />
+    <None Include="07\ExtensionMethod\MainApp.cs" />
     <None Include="07\Inheritance\MainApp.cs" />
+    <None Include="07\MethodHiding\MainApp.cs" />
+    <None Include="07\NestedClass\MainApp.cs" />
+    <None Include="07\Overriding\MainApp.cs" />
+    <None Include="07\PartialClass\MainApp.cs" />
+    <None Include="07\PositionalPattern\MainApp.cs" />
+    <None Include="07\ReadonlyFields\MainApp.cs" />
+    <None Include="07\ReadonlyMethod\MainApp.cs" />
+    <None Include="07\ReadonlyStruct\MainApp.cs" />
+    <None Include="07\SealedMethod\MainApp.cs" />
+    <None Include="07\Structure\MainApp.cs" />
     <None Include="07\ThisConstructor\MainApp.cs" />
     <None Include="07\This\MainApp.cs" />
     <None Include="07\DeepCopy\MainApp.cs" />
@@ -180,6 +205,7 @@
 
   <ItemGroup>
     <None Include="07\AccessModifier\MainApp.cs" />
+    <None Include="07\Tuple\MainApp.cs" />
     <None Include="07\TypeCasting\MainApp.cs" />
   </ItemGroup>
 
