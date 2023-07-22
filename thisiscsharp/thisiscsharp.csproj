@@ -86,6 +86,8 @@
     <Compile Remove="07\Constructor\MainApp.cs" />
     <Compile Remove="07\Constructor\MainAppf.cs" />
     <Compile Remove="07\Ex7_1\MainApp.cs" />
+    <Compile Remove="07\Ex7_3\MainApp.cs" />
+    <Compile Remove="07\Ex7_2\MainApp.cs" />
     <Compile Remove="07\ExtensionMethod\MainApp.cs" />
     <Compile Remove="07\Inheritance\MainApp.cs" />
     <Compile Remove="07\MethodHiding\MainApp.cs" />
@@ -185,6 +187,8 @@
     <None Include="07\BasicClass\MainApp.cs" />
     <None Include="07\Constructor\MainApp.cs" />
     <None Include="07\Ex7_1\MainApp.cs" />
+    <None Include="07\Ex7_3\MainApp.cs" />
+    <None Include="07\Ex7_2\MainApp.cs" />
     <None Include="07\ExtensionMethod\MainApp.cs" />
     <None Include="07\Inheritance\MainApp.cs" />
     <None Include="07\MethodHiding\MainApp.cs" />
