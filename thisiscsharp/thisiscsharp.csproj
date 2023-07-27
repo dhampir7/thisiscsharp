@@ -107,13 +107,17 @@
     <Compile Remove="07\Tuple\MainApp.cs" />
     <Compile Remove="07\TypeCasting\MainApp.cs" />
     <Compile Remove="08\AbstractClass\MainApp.cs" />
+    <Compile Remove="08\ConstructorWithProperty\MainApp.cs" />
     <Compile Remove="08\DefaultImplementation\MainApp.cs" />
     <Compile Remove="08\DerivedInterface\MainApp.cs" />
     <Compile Remove="08\Ex8_1\MainApp.cs" />
+    <Compile Remove="08\InitOnly\MainApp.cs" />
     <Compile Remove="08\Interface\MainApp.cs" />
     <Compile Remove="08\MultInterfaceInheritance\MainApp.cs" />
     <Compile Remove="08\AutoImplementedProperty\MainApp.cs" />
     <Compile Remove="08\Property\MainApp.cs" />
+    <Compile Remove="08\Record\MainApp.cs" />
+    <Compile Remove="08\WithExp\MainApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -220,13 +224,17 @@
     <None Include="07\Tuple\MainApp.cs" />
     <None Include="07\TypeCasting\MainApp.cs" />
     <None Include="08\AbstractClass\MainApp.cs" />
+    <None Include="08\ConstructorWithProperty\MainApp.cs" />
     <None Include="08\DefaultImplementation\MainApp.cs" />
     <None Include="08\DerivedInterface\MainApp.cs" />
     <None Include="08\Ex8_1\MainApp.cs" />
+    <None Include="08\InitOnly\MainApp.cs" />
     <None Include="08\Interface\MainApp.cs" />
     <None Include="08\MultInterfaceInheritance\MainApp.cs" />
     <None Include="08\AutoImplementedProperty\MainApp.cs" />
     <None Include="08\Property\MainApp.cs" />
+    <None Include="08\Record\MainApp.cs" />
+    <None Include="08\WithExp\MainApp.cs" />
   </ItemGroup>
 
 </Project>
