@@ -28,8 +28,8 @@ namespace RecordComp
             {
                 static void Main(string[] args)
                 {
-                    RTransaction trA = new RTransaction { From = "Alice", To = "Bob", Amount = 100 };
-                    RTransaction trB = new RTransaction { From = "Alice", To = "Bob", Amount = 100 };
+                    CTransaction trA = new CTransaction { From = "Alice", To = "Bob", Amount = 100 };
+                    CTransaction trB = new CTransaction { From = "Alice", To = "Bob", Amount = 100 };
 
                     Console.WriteLine(trA);
                     Console.WriteLine(trB);
