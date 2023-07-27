@@ -58,12 +58,8 @@ namespace Interface
     {
         static void Main(string[] args)
         {
-            /*            ClimateMonitor monitor = new ClimateMonitor(
-                            new FileLogger("MyLog.txt"));*/
-
-            ILogger ConsoleLogger = new ConsoleLogger();
-
-            ClimateMonitor monitor = new ClimateMonitor(ConsoleLogger);
+            ClimateMonitor monitor = new ClimateMonitor(
+                new FileLogger("MyLog.txt"));
 
             monitor.start();
         }
