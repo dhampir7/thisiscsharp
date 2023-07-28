@@ -17,7 +17,7 @@ namespace Ex9_1
             set;
     }
 
-    class MinApp
+    class MainApp
     {
         static void Main(string[] args)
         {

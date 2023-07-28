@@ -24,7 +24,7 @@ namespace RecordComp
                 return $"{From,-10} -> {To,-10} : ${Amount}";
             }
 
-            class MinApp
+            class MainApp
             {
                 static void Main(string[] args)
                 {

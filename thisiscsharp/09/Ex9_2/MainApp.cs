@@ -3,7 +3,7 @@
 namespace Ex9_1
 {
 
-    class MinApp
+    class MainApp
     {
         static void Main(string[] args)
         {
