@@ -126,18 +126,25 @@
     <Compile Remove="09\WithExp\MainApp.cs" />
     <Compile Remove="10\2DArray\MainApp.cs" />
     <Compile Remove="10\3DArray\MainApp.cs" />
+    <Compile Remove="10\Enumerable\MainApp.cs" />
+    <Compile Remove="10\ex10_5\MainApp.cs" />
+    <Compile Remove="10\Indexer\MainApp.cs" />
+    <Compile Remove="10\InitializingCollections\MainApp.cs" />
     <Compile Remove="10\JaggedArray\MainApp.cs" />
     <Compile Remove="10\ArraySample2\MainApp.cs" />
     <Compile Remove="10\ArraySample\MainApp.cs" />
     <Compile Remove="10\DerivedFromArray\MainApp.cs" />
     <Compile Remove="10\InitializingArray\MainApp.cs" />
-    <Compile Remove="10\a\MainApp.cs" />
+    <Compile Remove="11\a\MainApp.cs" />
     <Compile Remove="10\MoreOnArray\MainApp.cs" />
     <Compile Remove="10\Slice\MainApp.cs" />
     <Compile Remove="10\UsingHashtable\MainApp.cs" />
     <Compile Remove="10\UsingList\MainApp.cs" />
     <Compile Remove="10\UsingQueue\MainApp.cs" />
     <Compile Remove="10\UsingStack\MainApp.cs" />
+    <Compile Remove="10\Yield\MainApp.cs" />
+    <Compile Remove="11\CopyingArray\MainApp.cs" />
+    <Compile Remove="11\Generic\MainApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -263,18 +270,25 @@
     <None Include="09\WithExp\MainApp.cs" />
     <None Include="10\2DArray\MainApp.cs" />
     <None Include="10\3DArray\MainApp.cs" />
+    <None Include="10\Enumerable\MainApp.cs" />
+    <None Include="10\ex10_5\MainApp.cs" />
+    <None Include="10\Indexer\MainApp.cs" />
+    <None Include="10\InitializingCollections\MainApp.cs" />
     <None Include="10\JaggedArray\MainApp.cs" />
     <None Include="10\ArraySample2\MainApp.cs" />
     <None Include="10\ArraySample\MainApp.cs" />
     <None Include="10\DerivedFromArray\MainApp.cs" />
     <None Include="10\InitializingArray\MainApp.cs" />
-    <None Include="10\a\MainApp.cs" />
+    <None Include="11\a\MainApp.cs" />
     <None Include="10\MoreOnArray\MainApp.cs" />
     <None Include="10\Slice\MainApp.cs" />
     <None Include="10\UsingHashtable\MainApp.cs" />
     <None Include="10\UsingList\MainApp.cs" />
     <None Include="10\UsingQueue\MainApp.cs" />
     <None Include="10\UsingStack\MainApp.cs" />
+    <None Include="10\Yield\MainApp.cs" />
+    <None Include="11\CopyingArray\MainApp.cs" />
+    <None Include="11\Generic\MainApp.cs" />
   </ItemGroup>
 
 </Project>
