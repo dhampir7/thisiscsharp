@@ -135,7 +135,10 @@
     <Compile Remove="10\ArraySample\MainApp.cs" />
     <Compile Remove="10\DerivedFromArray\MainApp.cs" />
     <Compile Remove="10\InitializingArray\MainApp.cs" />
-    <Compile Remove="11\a\MainApp.cs" />
+    <Compile Remove="12\ExceptionFiltering\MainApp.cs" />
+    <Compile Remove="12\Finally\MainApp.cs" />
+    <Compile Remove="12\KillingProgram\MainApp.cs" />
+    <Compile Remove="12\a\MainApp.cs" />
     <Compile Remove="10\MoreOnArray\MainApp.cs" />
     <Compile Remove="10\Slice\MainApp.cs" />
     <Compile Remove="10\UsingHashtable\MainApp.cs" />
@@ -143,8 +146,19 @@
     <Compile Remove="10\UsingQueue\MainApp.cs" />
     <Compile Remove="10\UsingStack\MainApp.cs" />
     <Compile Remove="10\Yield\MainApp.cs" />
+    <Compile Remove="11\ConstraintsOnTypeParameters\MainApp.cs" />
     <Compile Remove="11\CopyingArray\MainApp.cs" />
+    <Compile Remove="11\EnumerableGeneric\MainApp.cs" />
     <Compile Remove="11\Generic\MainApp.cs" />
+    <Compile Remove="11\UsingDictionary\MainApp.cs" />
+    <Compile Remove="11\UsingGenericList\MainApp.cs" />
+    <Compile Remove="11\UsingGenericQueue\MainApp.cs" />
+    <Compile Remove="11\UsingGenericStack\MainApp.cs" />
+    <Compile Remove="12\MyException\MainApp.cs" />
+    <Compile Remove="12\StackTrace\MainApp.cs" />
+    <Compile Remove="12\ThrowExpression\MainApp.cs" />
+    <Compile Remove="12\Throw\MainApp.cs" />
+    <Compile Remove="12\TryCatch\MainApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -279,7 +293,10 @@
     <None Include="10\ArraySample\MainApp.cs" />
     <None Include="10\DerivedFromArray\MainApp.cs" />
     <None Include="10\InitializingArray\MainApp.cs" />
-    <None Include="11\a\MainApp.cs" />
+    <None Include="12\ExceptionFiltering\MainApp.cs" />
+    <None Include="12\Finally\MainApp.cs" />
+    <None Include="12\KillingProgram\MainApp.cs" />
+    <None Include="12\a\MainApp.cs" />
     <None Include="10\MoreOnArray\MainApp.cs" />
     <None Include="10\Slice\MainApp.cs" />
     <None Include="10\UsingHashtable\MainApp.cs" />
@@ -287,8 +304,19 @@
     <None Include="10\UsingQueue\MainApp.cs" />
     <None Include="10\UsingStack\MainApp.cs" />
     <None Include="10\Yield\MainApp.cs" />
+    <None Include="11\ConstraintsOnTypeParameters\MainApp.cs" />
     <None Include="11\CopyingArray\MainApp.cs" />
+    <None Include="11\EnumerableGeneric\MainApp.cs" />
     <None Include="11\Generic\MainApp.cs" />
+    <None Include="11\UsingDictionary\MainApp.cs" />
+    <None Include="11\UsingGenericList\MainApp.cs" />
+    <None Include="11\UsingGenericQueue\MainApp.cs" />
+    <None Include="11\UsingGenericStack\MainApp.cs" />
+    <None Include="12\MyException\MainApp.cs" />
+    <None Include="12\StackTrace\MainApp.cs" />
+    <None Include="12\ThrowExpression\MainApp.cs" />
+    <None Include="12\Throw\MainApp.cs" />
+    <None Include="12\TryCatch\MainApp.cs" />
   </ItemGroup>
 
 </Project>
