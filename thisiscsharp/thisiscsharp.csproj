@@ -139,7 +139,7 @@
     <Compile Remove="12\ExceptionFiltering\MainApp.cs" />
     <Compile Remove="12\Finally\MainApp.cs" />
     <Compile Remove="12\KillingProgram\MainApp.cs" />
-    <Compile Remove="13\a\MainApp.cs" />
+    <Compile Remove="13\AnnonymousMethod\MainApp.cs" />
     <Compile Remove="10\MoreOnArray\MainApp.cs" />
     <Compile Remove="10\Slice\MainApp.cs" />
     <Compile Remove="10\UsingHashtable\MainApp.cs" />
@@ -161,7 +161,15 @@
     <Compile Remove="12\Throw\MainApp.cs" />
     <Compile Remove="12\TryCatch\MainApp.cs" />
     <Compile Remove="13\DelegateChains\MainApp.cs" />
+    <Compile Remove="13\EventTest\MainApp.cs" />
+    <Compile Remove="13\Ex13_1\MainApp.cs" />
+    <Compile Remove="13\Ex13_2\MainApp.cs" />
     <Compile Remove="13\GenericDelegate\MainApp.cs" />
+    <Compile Remove="14\ActionTest\MainApp.cs" />
+    <Compile Remove="14\a\MainApp.cs" />
+    <Compile Remove="14\FuncTest\MainApp.cs" />
+    <Compile Remove="14\SimpleLambda\MainApp.cs" />
+    <Compile Remove="14\StatementLambda\MainApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -300,7 +308,7 @@
     <None Include="12\ExceptionFiltering\MainApp.cs" />
     <None Include="12\Finally\MainApp.cs" />
     <None Include="12\KillingProgram\MainApp.cs" />
-    <None Include="13\a\MainApp.cs" />
+    <None Include="13\AnnonymousMethod\MainApp.cs" />
     <None Include="10\MoreOnArray\MainApp.cs" />
     <None Include="10\Slice\MainApp.cs" />
     <None Include="10\UsingHashtable\MainApp.cs" />
@@ -322,7 +330,15 @@
     <None Include="12\Throw\MainApp.cs" />
     <None Include="12\TryCatch\MainApp.cs" />
     <None Include="13\DelegateChains\MainApp.cs" />
+    <None Include="13\EventTest\MainApp.cs" />
+    <None Include="13\Ex13_1\MainApp.cs" />
+    <None Include="13\Ex13_2\MainApp.cs" />
     <None Include="13\GenericDelegate\MainApp.cs" />
+    <None Include="14\ActionTest\MainApp.cs" />
+    <None Include="14\a\MainApp.cs" />
+    <None Include="14\FuncTest\MainApp.cs" />
+    <None Include="14\SimpleLambda\MainApp.cs" />
+    <None Include="14\StatementLambda\MainApp.cs" />
   </ItemGroup>
 
 </Project>
