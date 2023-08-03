@@ -166,10 +166,18 @@
     <Compile Remove="13\Ex13_2\MainApp.cs" />
     <Compile Remove="13\GenericDelegate\MainApp.cs" />
     <Compile Remove="14\ActionTest\MainApp.cs" />
-    <Compile Remove="14\a\MainApp.cs" />
+    <Compile Remove="14\Ex14_1\MainApp.cs" />
+    <Compile Remove="14\Ex14_2\MainApp.cs" />
+    <Compile Remove="14\ExpressionBodiedMember\MainApp.cs" />
+    <Compile Remove="14\ExpressionTreeViaLambda\MainApp.cs" />
     <Compile Remove="14\FuncTest\MainApp.cs" />
     <Compile Remove="14\SimpleLambda\MainApp.cs" />
     <Compile Remove="14\StatementLambda\MainApp.cs" />
+    <Compile Remove="14\UsingExpressionTree\MainApp.cs" />
+    <Compile Remove="15\a\MainApp.cs" />
+    <Compile Remove="15\FromFrom\MainApp.cs" />
+    <Compile Remove="15\From\MainApp.cs" />
+    <Compile Remove="15\SimpleLinq\MainApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -335,10 +343,21 @@
     <None Include="13\Ex13_2\MainApp.cs" />
     <None Include="13\GenericDelegate\MainApp.cs" />
     <None Include="14\ActionTest\MainApp.cs" />
-    <None Include="14\a\MainApp.cs" />
+    <None Include="14\Ex14_1\MainApp.cs" />
+    <None Include="14\Ex14_2\MainApp.cs" />
+    <None Include="14\ExpressionBodiedMember\MainApp.cs" />
+    <None Include="14\ExpressionTreeViaLambda\MainApp.cs" />
     <None Include="14\FuncTest\MainApp.cs" />
     <None Include="14\SimpleLambda\MainApp.cs" />
     <None Include="14\StatementLambda\MainApp.cs" />
+    <None Include="14\UsingExpressionTree\MainApp.cs" />
+    <None Include="15\a\MainApp.cs" />
+    <None Include="15\FromFrom\MainApp.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="15\From\MainApp.cs" />
+    <None Include="15\SimpleLinq\MainApp.cs" />
   </ItemGroup>
 
 </Project>
