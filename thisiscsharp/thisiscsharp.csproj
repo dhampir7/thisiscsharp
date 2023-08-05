@@ -175,6 +175,7 @@
     <Compile Remove="14\StatementLambda\MainApp.cs" />
     <Compile Remove="14\UsingExpressionTree\MainApp.cs" />
     <Compile Remove="15\Ex15_1\MainApp.cs" />
+    <Compile Remove="15\Ex15_2\MainApp.cs" />
     <Compile Remove="15\FromFrom\MainApp.cs" />
     <Compile Remove="15\From\MainApp.cs" />
     <Compile Remove="15\GroupBy\MainApp.cs" />
@@ -182,6 +183,8 @@
     <Compile Remove="15\MinMaxAvg\MainApp.cs" />
     <Compile Remove="15\SimpleLinq2\MainApp.cs" />
     <Compile Remove="15\SimpleLinq\MainApp.cs" />
+    <Compile Remove="16\a\MainApp.cs" />
+    <Compile Remove="16\GetType\MainApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -356,6 +359,7 @@
     <None Include="14\StatementLambda\MainApp.cs" />
     <None Include="14\UsingExpressionTree\MainApp.cs" />
     <None Include="15\Ex15_1\MainApp.cs" />
+    <None Include="15\Ex15_2\MainApp.cs" />
     <None Include="15\FromFrom\MainApp.cs" />
   </ItemGroup>
 
@@ -366,6 +370,8 @@
     <None Include="15\MinMaxAvg\MainApp.cs" />
     <None Include="15\SimpleLinq2\MainApp.cs" />
     <None Include="15\SimpleLinq\MainApp.cs" />
+    <None Include="16\a\MainApp.cs" />
+    <None Include="16\GetType\MainApp.cs" />
   </ItemGroup>
 
 </Project>
