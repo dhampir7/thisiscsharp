@@ -183,8 +183,13 @@
     <Compile Remove="15\MinMaxAvg\MainApp.cs" />
     <Compile Remove="15\SimpleLinq2\MainApp.cs" />
     <Compile Remove="15\SimpleLinq\MainApp.cs" />
-    <Compile Remove="16\a\MainApp.cs" />
+    <Compile Remove="16\BasicAttribute\MainApp.cs" />
+    <Compile Remove="16\CallerInfo\MainApp.cs" />
+    <Compile Remove="16\DynamicInstance\MainApp.cs" />
+    <Compile Remove="16\EmitTest\MainApp.cs" />
     <Compile Remove="16\GetType\MainApp.cs" />
+    <Compile Remove="16\HistoryAttribute\MainApp.cs" />
+    <Compile Remove="17\a\MainApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -370,8 +375,13 @@
     <None Include="15\MinMaxAvg\MainApp.cs" />
     <None Include="15\SimpleLinq2\MainApp.cs" />
     <None Include="15\SimpleLinq\MainApp.cs" />
-    <None Include="16\a\MainApp.cs" />
+    <None Include="16\BasicAttribute\MainApp.cs" />
+    <None Include="16\CallerInfo\MainApp.cs" />
+    <None Include="16\DynamicInstance\MainApp.cs" />
+    <None Include="16\EmitTest\MainApp.cs" />
     <None Include="16\GetType\MainApp.cs" />
+    <None Include="16\HistoryAttribute\MainApp.cs" />
+    <None Include="17\a\MainApp.cs" />
   </ItemGroup>
 
 </Project>
