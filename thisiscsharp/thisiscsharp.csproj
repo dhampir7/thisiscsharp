@@ -189,7 +189,9 @@
     <Compile Remove="16\EmitTest\MainApp.cs" />
     <Compile Remove="16\GetType\MainApp.cs" />
     <Compile Remove="16\HistoryAttribute\MainApp.cs" />
-    <Compile Remove="17\a\MainApp.cs" />
+    <Compile Remove="17\DuckTyping\MainApp.cs" />
+    <Compile Remove="18\a\MainApp.cs" />
+    <Compile Remove="18\Dir\MainApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -381,7 +383,9 @@
     <None Include="16\EmitTest\MainApp.cs" />
     <None Include="16\GetType\MainApp.cs" />
     <None Include="16\HistoryAttribute\MainApp.cs" />
-    <None Include="17\a\MainApp.cs" />
+    <None Include="17\DuckTyping\MainApp.cs" />
+    <None Include="18\a\MainApp.cs" />
+    <None Include="18\Dir\MainApp.cs" />
   </ItemGroup>
 
 </Project>
