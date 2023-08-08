@@ -191,7 +191,17 @@
     <Compile Remove="16\HistoryAttribute\MainApp.cs" />
     <Compile Remove="17\DuckTyping\MainApp.cs" />
     <Compile Remove="18\a\MainApp.cs" />
+    <Compile Remove="18\BasicIO\MainApp.cs" />
+    <Compile Remove="18\BinaryFile\MainApp.cs" />
     <Compile Remove="18\Dir\MainApp.cs" />
+    <Compile Remove="18\Ex18_1\MainApp.cs" />
+    <Compile Remove="18\Ex18_2\MainApp.cs" />
+    <Compile Remove="18\Ex18_3\MainApp.cs" />
+    <Compile Remove="18\SeqNRand\MainApp.cs" />
+    <Compile Remove="18\Serialization\MainApp.cs" />
+    <Compile Remove="18\TextFile\MainApp.cs" />
+    <Compile Remove="18\Touch\MainApp.cs" />
+    <Compile Remove="18\UsingDeclaration\MainApp.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -385,7 +395,17 @@
     <None Include="16\HistoryAttribute\MainApp.cs" />
     <None Include="17\DuckTyping\MainApp.cs" />
     <None Include="18\a\MainApp.cs" />
+    <None Include="18\BasicIO\MainApp.cs" />
+    <None Include="18\BinaryFile\MainApp.cs" />
     <None Include="18\Dir\MainApp.cs" />
+    <None Include="18\Ex18_1\MainApp.cs" />
+    <None Include="18\Ex18_2\MainApp.cs" />
+    <None Include="18\Ex18_3\MainApp.cs" />
+    <None Include="18\SeqNRand\MainApp.cs" />
+    <None Include="18\Serialization\MainApp.cs" />
+    <None Include="18\TextFile\MainApp.cs" />
+    <None Include="18\Touch\MainApp.cs" />
+    <None Include="18\UsingDeclaration\MainApp.cs" />
   </ItemGroup>
 
 </Project>
