@@ -139,7 +139,11 @@
     <Compile Remove="12\ExceptionFiltering\MainApp.cs" />
     <Compile Remove="12\Finally\MainApp.cs" />
     <Compile Remove="12\KillingProgram\MainApp.cs" />
+<<<<<<< HEAD
     <Compile Remove="13\a\MainApp.cs" />
+=======
+    <Compile Remove="13\AnnonymousMethod\MainApp.cs" />
+>>>>>>> 91871aea7386402104f6a5f3720c7801e3079dd8
     <Compile Remove="10\MoreOnArray\MainApp.cs" />
     <Compile Remove="10\Slice\MainApp.cs" />
     <Compile Remove="10\UsingHashtable\MainApp.cs" />
@@ -160,8 +164,54 @@
     <Compile Remove="12\ThrowExpression\MainApp.cs" />
     <Compile Remove="12\Throw\MainApp.cs" />
     <Compile Remove="12\TryCatch\MainApp.cs" />
+<<<<<<< HEAD
     <Compile Remove="13\Delegate\MainApp.cs" />
     <Compile Remove="13\UsingCallback\MainApp.cs" />
+=======
+    <Compile Remove="13\DelegateChains\MainApp.cs" />
+    <Compile Remove="13\EventTest\MainApp.cs" />
+    <Compile Remove="13\Ex13_1\MainApp.cs" />
+    <Compile Remove="13\Ex13_2\MainApp.cs" />
+    <Compile Remove="13\GenericDelegate\MainApp.cs" />
+    <Compile Remove="14\ActionTest\MainApp.cs" />
+    <Compile Remove="14\Ex14_1\MainApp.cs" />
+    <Compile Remove="14\Ex14_2\MainApp.cs" />
+    <Compile Remove="14\ExpressionBodiedMember\MainApp.cs" />
+    <Compile Remove="14\ExpressionTreeViaLambda\MainApp.cs" />
+    <Compile Remove="14\FuncTest\MainApp.cs" />
+    <Compile Remove="14\SimpleLambda\MainApp.cs" />
+    <Compile Remove="14\StatementLambda\MainApp.cs" />
+    <Compile Remove="14\UsingExpressionTree\MainApp.cs" />
+    <Compile Remove="15\Ex15_1\MainApp.cs" />
+    <Compile Remove="15\Ex15_2\MainApp.cs" />
+    <Compile Remove="15\FromFrom\MainApp.cs" />
+    <Compile Remove="15\From\MainApp.cs" />
+    <Compile Remove="15\GroupBy\MainApp.cs" />
+    <Compile Remove="15\Join\MainApp.cs" />
+    <Compile Remove="15\MinMaxAvg\MainApp.cs" />
+    <Compile Remove="15\SimpleLinq2\MainApp.cs" />
+    <Compile Remove="15\SimpleLinq\MainApp.cs" />
+    <Compile Remove="16\BasicAttribute\MainApp.cs" />
+    <Compile Remove="16\CallerInfo\MainApp.cs" />
+    <Compile Remove="16\DynamicInstance\MainApp.cs" />
+    <Compile Remove="16\EmitTest\MainApp.cs" />
+    <Compile Remove="16\GetType\MainApp.cs" />
+    <Compile Remove="16\HistoryAttribute\MainApp.cs" />
+    <Compile Remove="17\DuckTyping\MainApp.cs" />
+    <Compile Remove="18\a\MainApp.cs" />
+    <Compile Remove="18\Dir\MainApp.cs" />
+<<<<<<< HEAD
+    <Compile Remove="18\Ex18_1\MainApp.cs" />
+    <Compile Remove="18\Ex18_2\MainApp.cs" />
+    <Compile Remove="18\Ex18_3\MainApp.cs" />
+    <Compile Remove="18\SeqNRand\MainApp.cs" />
+    <Compile Remove="18\Serialization\MainApp.cs" />
+    <Compile Remove="18\TextFile\MainApp.cs" />
+    <Compile Remove="18\Touch\MainApp.cs" />
+    <Compile Remove="18\UsingDeclaration\MainApp.cs" />
+>>>>>>> 91871aea7386402104f6a5f3720c7801e3079dd8
+=======
+>>>>>>> parent of 91871ae (8/8)
   </ItemGroup>
 
   <ItemGroup>
@@ -300,7 +350,11 @@
     <None Include="12\ExceptionFiltering\MainApp.cs" />
     <None Include="12\Finally\MainApp.cs" />
     <None Include="12\KillingProgram\MainApp.cs" />
+<<<<<<< HEAD
     <None Include="13\a\MainApp.cs" />
+=======
+    <None Include="13\AnnonymousMethod\MainApp.cs" />
+>>>>>>> 91871aea7386402104f6a5f3720c7801e3079dd8
     <None Include="10\MoreOnArray\MainApp.cs" />
     <None Include="10\Slice\MainApp.cs" />
     <None Include="10\UsingHashtable\MainApp.cs" />
@@ -321,8 +375,57 @@
     <None Include="12\ThrowExpression\MainApp.cs" />
     <None Include="12\Throw\MainApp.cs" />
     <None Include="12\TryCatch\MainApp.cs" />
+<<<<<<< HEAD
     <None Include="13\Delegate\MainApp.cs" />
     <None Include="13\UsingCallback\MainApp.cs" />
+=======
+    <None Include="13\DelegateChains\MainApp.cs" />
+    <None Include="13\EventTest\MainApp.cs" />
+    <None Include="13\Ex13_1\MainApp.cs" />
+    <None Include="13\Ex13_2\MainApp.cs" />
+    <None Include="13\GenericDelegate\MainApp.cs" />
+    <None Include="14\ActionTest\MainApp.cs" />
+    <None Include="14\Ex14_1\MainApp.cs" />
+    <None Include="14\Ex14_2\MainApp.cs" />
+    <None Include="14\ExpressionBodiedMember\MainApp.cs" />
+    <None Include="14\ExpressionTreeViaLambda\MainApp.cs" />
+    <None Include="14\FuncTest\MainApp.cs" />
+    <None Include="14\SimpleLambda\MainApp.cs" />
+    <None Include="14\StatementLambda\MainApp.cs" />
+    <None Include="14\UsingExpressionTree\MainApp.cs" />
+    <None Include="15\Ex15_1\MainApp.cs" />
+    <None Include="15\Ex15_2\MainApp.cs" />
+    <None Include="15\FromFrom\MainApp.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="15\From\MainApp.cs" />
+    <None Include="15\GroupBy\MainApp.cs" />
+    <None Include="15\Join\MainApp.cs" />
+    <None Include="15\MinMaxAvg\MainApp.cs" />
+    <None Include="15\SimpleLinq2\MainApp.cs" />
+    <None Include="15\SimpleLinq\MainApp.cs" />
+    <None Include="16\BasicAttribute\MainApp.cs" />
+    <None Include="16\CallerInfo\MainApp.cs" />
+    <None Include="16\DynamicInstance\MainApp.cs" />
+    <None Include="16\EmitTest\MainApp.cs" />
+    <None Include="16\GetType\MainApp.cs" />
+    <None Include="16\HistoryAttribute\MainApp.cs" />
+    <None Include="17\DuckTyping\MainApp.cs" />
+    <None Include="18\a\MainApp.cs" />
+    <None Include="18\Dir\MainApp.cs" />
+<<<<<<< HEAD
+    <None Include="18\Ex18_1\MainApp.cs" />
+    <None Include="18\Ex18_2\MainApp.cs" />
+    <None Include="18\Ex18_3\MainApp.cs" />
+    <None Include="18\SeqNRand\MainApp.cs" />
+    <None Include="18\Serialization\MainApp.cs" />
+    <None Include="18\TextFile\MainApp.cs" />
+    <None Include="18\Touch\MainApp.cs" />
+    <None Include="18\UsingDeclaration\MainApp.cs" />
+>>>>>>> 91871aea7386402104f6a5f3720c7801e3079dd8
+=======
+>>>>>>> parent of 91871ae (8/8)
   </ItemGroup>
 
 </Project>
